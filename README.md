@@ -56,26 +56,33 @@
 
 <h2 align="center">📈 GitHub Stats 📈</h2>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedYeheaBallour&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=mohammed-bellour&theme=react&border=61dafb&hide_border=true" />
-</p>
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=MohammedYeheaBallour&theme=react&border=61dafb&hide_border=true" alt="MohammedYeheaBallour" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=MohammedYeheaBallour&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedYeheaBallour&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<br><br><br><br><br><br><br><br><br>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedYeheaBallour&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  </a>
+</div>
+
 
 <hr>
 
 <h2 align="center">📚 Featured Projects 📚</h2>
 
 <div align="center">
-  <a href="https://github.com/mohammed-bellour/academic-bot" title="Academic Bot">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedYeheaBallour&repo=academic-bot&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/MohammedYeheaBallour/Phones-Store" title=" Phones Store">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedYeheaBallour&repo=Phones_Store&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/mohammed-bellour/inventory-dashboard" title="Inventory Dashboard">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedYeheaBallour&repo=inventory-dashboard&theme=react&border_color=61dafb&border_radius=10">
-  </a>
+
 </div>
 
 <br>
