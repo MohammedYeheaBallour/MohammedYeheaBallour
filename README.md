@@ -9,7 +9,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mohammed-ballour-4aa49a337/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:mohammedballour2002@gmail.com" title="Email"><img width="22" src="images/email.svg"> Email</a></code>
+  <code><a href="mailto:mohammedballour2002@gmail.com" title="Email"><img width="22" src="images/gmail-svgrepo-com.svg"> Email</a></code>
 </h5>
 
 <br>
@@ -37,6 +37,7 @@
 <p align="center">
  <p align="center">
   <code><img title="PHP" height="25" src="images/php.svg"></code>
+<code><img title="Laravel" height="25" src="images/laravel-svgrepo-com.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Docker" height="25" src="images/docker-svgrepo-com.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
@@ -56,12 +57,12 @@
 <h2 align="center">📈 GitHub Stats 📈</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammed-bellour&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedYeheaBallour&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=mohammed-bellour&theme=react&border=61dafb&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-bellour&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedYeheaBallour&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
@@ -70,10 +71,10 @@
 
 <div align="center">
   <a href="https://github.com/mohammed-bellour/academic-bot" title="Academic Bot">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-bellour&repo=academic-bot&theme=react&border_color=61dafb&border_radius=10">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedYeheaBallour&repo=academic-bot&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a href="https://github.com/mohammed-bellour/inventory-dashboard" title="Inventory Dashboard">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-bellour&repo=inventory-dashboard&theme=react&border_color=61dafb&border_radius=10">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedYeheaBallour&repo=inventory-dashboard&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
