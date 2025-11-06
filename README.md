@@ -2,7 +2,7 @@
 
 <h1 align="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!+👋;I'm+Mohammed+Bellour+-+Laravel+Developer;+Team+Leader+-+Problem+Solver;+Always+Learning+-+Building+Smart+Solutions&center=true&size=24&width=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!+👋;I'm+Mohammed+Bellour+-+Laravel+Developer;+Team+Leader+-+Problem+Solver;+Always+Learning+-+Building+Smart+Solutions&center=true&size=30&width=1000">
 </a>
 
 </h1>
