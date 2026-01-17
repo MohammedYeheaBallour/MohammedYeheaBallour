@@ -40,14 +40,16 @@ Currently learning **React** to become a Full Stack Developer 🧠. I love solvi
 
 ### 📚 Featured Projects
 
-- **🛍️ [Vevo Store (Native PHP)](https://drive.google.com/file/d/1B5KWqqZwcrwFzDzswByFIDK2vUa7d4ey/view?usp=drivesdk)**
-  <br>Integrated e-commerce platform built with **Native PHP** & **MySQL**. Features a modern frontend, user accounts, shopping cart, PayPal checkout, order tracking, and a comprehensive admin dashboard.
+- **💰 [Smart Expense Tracker](https://github.com/MohammedYeheaBallour/Expense-Tracker)**
+  <br>Comprehensive financial management system built with **Laravel**. Features include income & expense tracking, categorized budgeting, monthly planning, and **AI-powered** financial advice integration.
 
 - **📱 [Phones Store](https://github.com/MohammedYeheaBallour/Phones-Store)**
   <br>Integrated e-commerce app for phones & accessories built with **Laravel**.
+
+- **🛍️ [Vevo Store (Native PHP)](https://drive.google.com/file/d/1B5KWqqZwcrwFzDzswByFIDK2vUa7d4ey/view?usp=drivesdk)**
+  <br>Integrated e-commerce platform built with **Native PHP** & **MySQL**. Features a modern frontend, user accounts, shopping cart, PayPal checkout, order tracking, and a comprehensive admin dashboard.
 
 - **📝 [Multi Step](https://github.com/MohammedYeheaBallour/WeburaTask.github.io)**
   <br>Multi-step form application in **Laravel** showcasing advanced form handling.
 
 #### [🔎 Explore More Projects](https://github.com/MohammedYeheaBallour?tab=repositories)
-
